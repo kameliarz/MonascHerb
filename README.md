@@ -6,13 +6,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/kameliarz">
-        <img src="https://github.com/kameliarz.png" width="100px;" alt=""/><br />
-        <sub><b>Kamelia</b></sub>
-      </a>
-      <p><sub>(Programmer)</sub></p>
-    </td>
-    <td align="center">
       <a href="https://github.com/alyarsma">
         <img src="https://github.com/alyarsma.png" width="100px;" alt=""/><br />
         <sub><b>Alya</b></sub>
@@ -32,6 +25,13 @@
         <sub><b>Neva</b></sub>
       </a>
       <p><sub>(UI/UX Designer)</sub></p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kameliarz">
+        <img src="https://github.com/kameliarz.png" width="100px;" alt=""/><br />
+        <sub><b>Kamelia</b></sub>
+      </a>
+      <p><sub>(Programmer)</sub></p>
     </td>
   </tr>
 </table>
