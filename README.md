@@ -1,5 +1,6 @@
 # MonascHerb
-<p>MonascHerb adalah platform berbasis web yang dirancang untuk mendigitalisasi proses bisnis pada CV Arrohmah Monascho.<br>Proyek ini dikembangkan sebagai bagian dari mata kuliah Pengembangan Perangkat Lunak (PPL).</p>
+<p>MonascHerb adalah platform berbasis web yang dirancang untuk mendigitalisasi proses bisnis pada CV Arrohmah Monascho. Proyek ini dikembangkan sebagai bagian dari mata kuliah Pengembangan Perangkat Lunak (PPL).</p>
+
 ## Authors
 
 <table align="center">
